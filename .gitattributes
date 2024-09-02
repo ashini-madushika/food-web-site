@@ -1,4 +1,4 @@
-*.html linguist-detecttable=true
+*.html linguist-detecttable=false
 *.js linguist-detecttable=false
 *.css linguist-detecttable=false
-*.php linguist-detecttable=false
+*.php linguist-detecttable=true
